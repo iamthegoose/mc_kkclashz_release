@@ -1,8 +1,0 @@
-{
-  "version": "0.1.a",
-  "mac": {
-    "url": "https://github.com/iamthegoose/mc_kkclashz_ui/releases/download/v0.1.a/main-mac.zip",
-    "sha256": "859716004601269317e3bd93d13fd7e11f5e54a4cdf116027b3e7f35befc8975"
-  },
-  "notes": "Перший mac-реліз"
-}
